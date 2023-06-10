@@ -1,0 +1,11 @@
+carbon,latitude,longitude,nitrogen,oxygen,supplier_id
+15,-3.4653,-62.2159,10,5,Supplier XYZ
+17,-2.5896,-59.8793,9,6,Supplier ABC
+14,-6.5591,-64.3399,8,7,Supplier DEF
+12,-8.3405,-61.4032,7,8,Supplier GHI
+18,-4.9607,-59.9931,6,9,Supplier JKL
+13,-9.7843,-61.7739,5,10,Supplier MNO
+11,-4.2032,-65.7054,4,11,Supplier PQR
+16,-5.019,-61.0164,3,12,Supplier STU
+19,-7.3248,-58.1315,2,13,Supplier VWX
+10,-1.0327,-56.5251,1,14,Supplier YZA
